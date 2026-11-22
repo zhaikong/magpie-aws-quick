@@ -4,3 +4,4 @@ node_modules/
 # reverse-engineering artifacts: extracted proprietary app code + capture scripts
 # (contain device ids / session material — never publish)
 _research/
+config.bat
